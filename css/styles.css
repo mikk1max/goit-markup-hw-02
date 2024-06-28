@@ -53,7 +53,7 @@ a {
   color: #404bbf;
 }
 
-.section-baner {
+.sec-baner {
   background-color: #2e2f42;
 }
 
@@ -66,7 +66,7 @@ h1 {
   color: #fff;
 }
 
-.section-baner-btn {
+.sec-baner-btn {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -81,12 +81,12 @@ h1 {
   cursor: pointer;
 }
 
-.section-baner-btn:hover,
-.section-baner-btn:focus {
+.sec-baner-btn:hover,
+.sec-baner-btn:focus {
   background: #404bbf;
 }
 
-.section-features h3 {
+.sec-features h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -94,7 +94,7 @@ h1 {
   color: #2e2f42;
 }
 
-.section-features p {
+.sec-features p {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -102,12 +102,12 @@ h1 {
   color: #434455;
 }
 
-.section-team {
+.sec-team {
   background-color: #f4f4fd;
 }
 
-.section-team h2,
-.section-portfolio h2 {
+.sec-team h2,
+.sec-portfolio h2 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -133,6 +133,7 @@ h1 {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .team-list-item p {
@@ -144,7 +145,7 @@ h1 {
   color: #434455;
 }
 
-.section-portfolio .portfolio-list-item h3 {
+.sec-portfolio .portfolio-list-item h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -152,7 +153,7 @@ h1 {
   color: #2e2f42;
 }
 
-.section-portfolio .portfolio-list-item p {
+.sec-portfolio .portfolio-list-item p {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
