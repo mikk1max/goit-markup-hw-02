@@ -81,7 +81,7 @@ a {
   background: #404bbf;
 }
 
-.sec-features h3 {
+.sec-features .features-list .feature-item-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -89,7 +89,7 @@ a {
   color: #2e2f42;
 }
 
-.sec-features p {
+.sec-features .features-list .text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -116,7 +116,7 @@ a {
   background: #fff;
 }
 
-.team-list-item h3 {
+.team-list-item .teammate {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -126,7 +126,7 @@ a {
   text-transform: capitalize;
 }
 
-.team-list-item p {
+.team-list-item .text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -135,7 +135,7 @@ a {
   color: #434455;
 }
 
-.sec-portfolio .portfolio-list-item h3 {
+.sec-portfolio .portfolio-item-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -143,7 +143,7 @@ a {
   color: #2e2f42;
 }
 
-.sec-portfolio .portfolio-list-item p {
+.sec-portfolio .portfolio-list-item .text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -159,7 +159,7 @@ a {
   color: #f4f4fd;
 }
 
-.footer-page p {
+.footer-page .text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
